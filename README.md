@@ -6,13 +6,13 @@ Thought Planner is made by 1001772239 Ontario Inc. This policy describes what th
 
 Notes you speak, text you type, tasks, and the calendar stay on this iPhone. A new iPhone does not receive them. A backup of this iPhone is what brings them across.
 
-The microphone and speech recognition turn your voice into text on the phone. We do not receive the recording or the transcript.
+Speech recognition runs on this iPhone. The recording is not sent off this iPhone for recognition. We do not receive the recording or the transcript.
 
 If you send a task to Reminders, it is created in the Reminders app on this iPhone. We do not receive that reminder.
 
 ## Email
 
-Email is optional. You can use the planner without giving an address. If you verify an address, or you ask us to email the subscription summary, that address is sent to our mail provider, Resend, so we can send you a code or that summary. The address is linked to you and is used for the app. It is not used to track you across other companies’ apps or websites.
+Email is optional. You can use the planner without giving an address. If you verify an address, or you ask us to email the subscription summary, that address is sent to our mail provider, Resend, so we can send you a code or that summary. The summary names the expiry date and how to open Thought Planner on another iPhone with Restore. The email does not open that iPhone. The address is linked to you and is used for the app. It is not used to track you across other companies’ apps or websites.
 
 ## Apple and the subscription
 

@@ -13,11 +13,11 @@ Thought Planner offers two auto-renewable plans in one subscription group:
 - Monthly: one month of Thought Planner.
 - Yearly: one year of Thought Planner.
 
-The price is the price Apple shows in the app before you confirm, in your storefront’s currency. Payment is charged to your Apple ID. Two weeks are free when you subscribe, once for that Apple ID. If you do not cancel before those two weeks end, Apple bills the plan you pick.
+The price is the price Apple shows in the app before you confirm, in your storefront’s currency. Payment is charged to your Apple ID when you confirm. Any free period is the introductory offer Apple shows in the app before you confirm. It starts when you subscribe, once for that Apple ID. If you do not cancel before that free period ends, Apple bills the plan you pick. If a free period is still running and you subscribe to the other plan, the rest of that free period is forfeited.
 
 The plan renews until you cancel. Apple charges the next period within 24 hours before the current period ends. To avoid that charge, turn off renewal in Settings → Apple ID → Subscriptions at least 24 hours before the period ends. Turning renewal off keeps Thought Planner open until the date Apple’s receipt still covers. A refund is decided by Apple and can end the period sooner.
 
-On another iPhone, sign in with the same Apple ID and tap Restore. Restore does not copy your tasks. A backup of the first iPhone is what brings the notes across.
+On another iPhone, sign in with the same Apple ID and tap Restore. Restore does not copy your tasks. A backup of the first iPhone is what brings the notes across. After you subscribe, Thought Planner can email you the expiry date and those steps. That email does not open the other iPhone.
 
 ## Privacy
 
