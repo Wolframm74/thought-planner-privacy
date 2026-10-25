@@ -33,3 +33,7 @@ Thought Planner is not directed at children under 13.
 ## Contact
 
 Questions about this policy: [thought.planner.app@gmail.com](mailto:thought.planner.app@gmail.com)
+
+## Terms
+
+The terms of use are [here](TERMS.md).
