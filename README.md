@@ -8,8 +8,6 @@ Notes you speak, text you type, tasks, and the calendar stay on this iPhone. A n
 
 The microphone and speech recognition turn your voice into text on the phone. We do not receive the recording or the transcript.
 
-The camera and photo library are used only so you can read the payment QR from the subscription email. Those pictures are not uploaded.
-
 If you send a task to Reminders, it is created in the Reminders app on this iPhone. We do not receive that reminder.
 
 ## Email
